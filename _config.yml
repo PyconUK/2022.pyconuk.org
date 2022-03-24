@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "PyCon UK 2020"
+title: "PyCon UK 2022"
 description: >-
-  PyCon UK will be returning to Cardiff City Hall from Saturday 10th to Wednesday 14th October 2020.
+  PyCon UK will be returning to Cardiff City Hall from Friday 16th to Sunday 18th September 2022.
   More details coming soon!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2020.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://2022.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PyConUK
 github_username:  PyConUK
 

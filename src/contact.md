@@ -9,7 +9,7 @@ You can email the organising committee at {{ "pyconuk@uk.python.org" | create_ma
 
 PyCon UK is organised entirely by volunteer members of the Python community in the UK.
 
-The conference director of PyCon UK 2020 is **Kristian Glass**.
+The conference director of PyCon UK 2022 is **Ann Barr**.
 
 The conference is staged by **UKPA Trading Limited** (a company registered in England and Wales <a href="https://beta.companieshouse.gov.uk/company/12254310">no.&nbsp;12254310</a>) on behalf of the **UK&nbsp;Python Association** (a charity registered in England and Wales <a href="http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=1173471&SubsidiaryNumber=0">no.&nbsp;1173471</a>).
 
