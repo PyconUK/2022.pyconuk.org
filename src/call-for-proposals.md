@@ -5,7 +5,7 @@ title: Call for Proposals
 
 <a href="https://pretalx.com/pyconuk-2022/cfp" target="_blank">Submit your proposal</a>
 
-<p>We welcome proposals from <strong>everyone</strong>. You don't need to be an expert, or an expert speaker. Below you can find out waht kind of proposals we're seeking, but if you're in any doubt whether you should submit a proposal, please see...</p>
+<p>We welcome proposals from <strong>everyone</strong>. You don't need to be an expert, or an expert speaker. Below you can find out what kind of proposals we're seeking, but if you're in any doubt whether you should submit a proposal, please see...</p>
 
 <a href="/call-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
