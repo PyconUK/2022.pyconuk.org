@@ -7,11 +7,11 @@ title: Call for Proposals
 
 <p>We welcome proposals from <strong>everyone</strong>. You don't need to be an expert, or an expert speaker. Below you can find out what kind of proposals we're seeking, but if you're in any doubt whether you should submit a proposal, please see...</p>
 
-<a href="/call-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
+<a href="/call-for-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
 <p>The call for proposals is open until <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022</strong>. Selections will be published by SELECTDAY SELECTMONTHWORD.</p>
 
-<a href="/call-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
+<a href="/call-for-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
 
 <p>Please note that there will be no sprints or posters this conference. Sorry, we hope they'll be back next year!</p>
 
