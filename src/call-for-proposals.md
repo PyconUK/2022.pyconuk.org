@@ -9,7 +9,7 @@ title: Call for Proposals
 
 <a href="/call-for-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
-<p>The call for proposals is open until <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022</strong>. Selections will be published by SELECTDAY SELECTMONTHWORD.</p>
+<p>The call for proposals is open until <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022</strong>. Selections will be made during the course of July.</p>
 
 <a href="/call-for-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
 
@@ -61,6 +61,6 @@ title: Call for Proposals
 </div>
 
 <div class="box box_red">
-  <p>The deadline for submissions is <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022 </strong>- but don't leave it until then. Selections will be made by SELECTDAY SELECTMONTHWORD.</p>
+  <p>The deadline for submissions is <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022 </strong>- but don't leave it until then. Selections will be made during the course of July..</p>
   <a href="https://pretalx.com/pycon-uk-2022/cfp" target="_blank" class="btn btn-warning btn-lg btn-block">Submit your proposal</a>
 </div>
