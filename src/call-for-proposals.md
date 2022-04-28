@@ -3,17 +3,17 @@ layout: default
 title: Call for Proposals
 ---
 
-<a class="button" color="yellow" href="https://pretalx.com/pyconuk-2022/cfp" target="_blank">Submit your proposal</a>
+<a href="https://pretalx.com/pyconuk-2022/cfp" target="_blank">Submit your proposal</a>
 
-<p>We welcome proposals from <strong>everyone</strong>. You don't need to be an expert, or an expert speaker. Below you can find out waht kind of proposals we're seeking, but if you're in any doubt whether you should submit a proposal, please see...
+<p>We welcome proposals from <strong>everyone</strong>. You don't need to be an expert, or an expert speaker. Below you can find out waht kind of proposals we're seeking, but if you're in any doubt whether you should submit a proposal, please see...</p>
 
-<a class="btn btn-danger btn-block" href="/call-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
+<a href="/call-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
-<p>The call for proposals is open until <strong>PUT THE TIME HERE (Europe/London)</strong> on <strong>DAYNAME, DAY, MONTHWORD, 2022</strong>. Selections will be published by SELECTDAY SELECTMONTHWORD.
+<p>The call for proposals is open until <strong>PUT THE TIME HERE (Europe/London)</strong> on <strong>DAYNAME, DAY, MONTHWORD, 2022</strong>. Selections will be published by SELECTDAY SELECTMONTHWORD.</p>
 
-<a class="btn btn-warning btn-block" href="/call-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
+<a href="/call-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
 
-<p>Please note that there will be no sprints this conference, sorry- we hope they'll be back next year!
+<p>Please note that there will be no sprints this conference. Sorry, we hope they'll be back next year!</p>
 
 <style>
   .box_cfp figure {
