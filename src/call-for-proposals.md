@@ -13,7 +13,7 @@ title: Call for Proposals
 
 <a href="/call-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
 
-<p>Please note that there will be no sprints this conference. Sorry, we hope they'll be back next year!</p>
+<p>Please note that there will be no sprints or posters this conference. Sorry, we hope they'll be back next year!</p>
 
 <style>
   .box_cfp figure {
@@ -53,15 +53,6 @@ title: Call for Proposals
 
   <h3>Workshops</h3>
   <p><strong>Share something you know!</strong> Workshops are longer hands-on sessions with small groups. Most workshops will be between 90 and 180 minutes long.</p>
-</div>
-
-<div class="box box_yellow">
-  <figure>
-    <img src="/images/posters.jpg" alt="A person with a teacup and saucer studies a board covered in posters about a Divio. In the background people can be seen sitting at lunch.">
-  </figure>
-
-  <h3>Posters</h3>
-  <p><strong>Present your work on a poster!</strong> In one the of the lunchtime sessions, attendees will be coming to see all the posters and talk to the presenters about their work, projects and ideas.</p>
 </div>
 
 <div class="box box_blue">
