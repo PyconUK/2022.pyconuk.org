@@ -43,7 +43,7 @@ title: Call for Proposals
   </figure>
 
   <h3>Talks</h3>
-  <p><strong>Speak to the wonderful PyCon UK audience!</strong> Most talk slots are around 25 minutes, with some longer slots available in the schedule.</p>
+  <p><strong>Speak to the wonderful PyCon UK audience!</strong></p>
 </div>
 
 <div class="box box_red">
