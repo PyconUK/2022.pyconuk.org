@@ -15,28 +15,6 @@ title: Call for Proposals
 
 <p>Please note that there will be no sprints or posters this conference. Sorry, we hope they'll be back next year!</p>
 
-<style>
-  .box_cfp figure {
-    float: right;
-    max-width: 250px;
-    margin-left: 1em;
-    margin-bottom: 1em;
-  }
-
-  .box_cfp h3 {
-    margin-top: 0;
-    margin-bottom: 0.5em;
-  }
-
-  .box_cfp p:nth-child(3) {
-    margin-top: 0.5em;
-  }
-
-  h2 {
-    margin-top: 3em;
-  }
-</style>
-
 <div class="box box_blue">
   <figure>
     <img src="/images/mikey_talk.jpg" alt="A person speaking into a microphone in front of a projected slide deck discussing 'Why are we here?'. Their laptop is visible and has a truly impressive collection of stickers on it.">

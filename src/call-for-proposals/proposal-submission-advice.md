@@ -3,28 +3,6 @@ layout: default
 title: Submit a successful proposal
 ---
 
-<style>
-  .box_cfp figure {
-    float: right;
-    max-width: 250px;
-    margin-left: 1em;
-    margin-bottom: 1em;
-  }
-
-  .box_cfp h3 {
-    margin-top: 0;
-    margin-bottom: 0.5em;
-  }
-
-  .box_cfp p:nth-child(3) {
-    margin-top: 0.5em;
-  }
-
-  h2 {
-    margin-top: 3em;
-  }
-</style>
-
 <p>We expect to receive many more talk proposals than we can accept. That means that <strong>the competition for proposals is extremely high.</strong></p>
 
 <p>This page is intended to help you improve your proposal, so that it has a better chance of being accepted.</p>
