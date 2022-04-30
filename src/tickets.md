@@ -8,7 +8,7 @@ title: Tickets
 <div class="box box_yellow">
   <h3>Please note</h3>
   <p>As part of our return we are only offering tickets that cover the full conference. We are hoping to return to usual in 2023!</p>
-  <p>There are no specific childrens' tickets this year. However, ticket holders may bring two under-16s to the conference.</p>
+  <p>There are no specific childrens' tickets this year. However, ticket holders may bring up to two under-18s to the conference.</p>
 </div>
 
 <div class="box box_blue">
