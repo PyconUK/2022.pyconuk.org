@@ -3,7 +3,7 @@ layout: default
 title: Tickets
 ---
 
-<a href="https://pretix.eu/pyconuk/PyConUK2022" target="_blank">Buy your PyCon UK 2022 tickets now</a>
+<p>Tickets coming soon!</p>
 
 <div class="box box_yellow">
   <h3>Please note</h3>
@@ -52,4 +52,4 @@ title: Tickets
   VAT number: GB249244982</p>
 </div>
 
-<a href="https://pretix.eu/pyconuk/PyConUK2022" target="_blank">Buy your PyCon UK 2022 tickets now</a>
+<p>Tickets coming soon!</p>
