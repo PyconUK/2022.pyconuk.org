@@ -5,11 +5,13 @@ title: Invoicing and Getting Paid
 
 Please send invoices in PDF format to {{ "kristian.glass@uk.python.org" | create_mailto_link }}, addressed to:
 
+```
 PyCon UK Society Ltd.
 c/o Acconomy,
 Arena Business Centre,
 Poole,
 BH17 7FJ
+```
 
 We want to make sure we pay people as soon as we can.
 Equally we're a volunteer-run organisation.
