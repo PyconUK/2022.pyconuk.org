@@ -48,8 +48,8 @@ title: Tickets
     </tbody>
   </table>
 
-  All prices in this table <strong>include</strong> VAT at 20%
-  VAT number: GB249244982
+  <p>All prices in this table <strong>include</strong> VAT at 20%<br />
+  VAT number: GB249244982</p>
 </div>
 
 <a href="https://pretix.eu/pyconuk/PyConUK2022" target="_blank">Buy your PyCon UK 2022 tickets now</a>
