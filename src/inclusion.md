@@ -13,29 +13,7 @@ If there is something you need, that's not described below, please [let us know]
 
 PyCon UK will be a friendly environment for parents and babies.
 
-<style>
-  .box_inclusion figure {
-    float: right;
-    max-width: 250px;
-    margin-left: 1em;
-    margin-bottom: 1em;
-  }
-
-  .box_inclusion h3 {
-    margin-top: 0;
-    margin-bottom: 0.5em;
-  }
-
-  .box_inclusion p:nth-child(3) {
-    margin-top: 0.5em;
-  }
-
-  h2 {
-    margin-top: 3em;
-  }
-</style>
-
-<div class="box box_blue box_inclusion">
+<div class="box box_blue">
   <figure>
     <img src="/images/creche_1x.jpg" srcset="/images/creche_1x.jpg 1x, /images/creche_2x.jpg 2x" alt="Two babies sitting on the floor, holding hands. One of them is looking and smiling at the camera; the other is looking away.">
     <figcaption>
@@ -80,7 +58,7 @@ PyCon UK will be a friendly environment for parents and babies.
 
 We have provision for people with hearing, vision and mobility requirements.
 
-<div class="box box_yellow box_inclusion">
+<div class="box box_yellow">
   <figure>
     <img src="/images/captioning_1x.jpg" srcset="/images/captioning_1x.jpg 1x, /images/captioning_2x.jpg 2x" alt="A large screen with a black background and yellow text.">
     <figcaption>
@@ -104,7 +82,7 @@ We have provision for people with hearing, vision and mobility requirements.
   </p>
 </div>
 
-<div class="box box_blue box_inclusion">
+<div class="box box_blue">
   <h3>Vision support</h3>
 
   <p>
@@ -120,7 +98,7 @@ We have provision for people with hearing, vision and mobility requirements.
   </p>
 </div>
 
-<div class="box box_red box_inclusion">
+<div class="box box_red">
   <h3>Mobility</h3>
 
   <p>
@@ -144,7 +122,7 @@ We have provision for people with hearing, vision and mobility requirements.
 
 ## And also…
 
-<div class="box box_yellow box_inclusion">
+<div class="box box_yellow">
   <h3>Dietary requirements</h3>
 
   <p>
@@ -157,7 +135,7 @@ We have provision for people with hearing, vision and mobility requirements.
   </p>
 </div>
 
-<div class="box box_blue box_inclusion">
+<div class="box box_blue">
   <figure>
     <img src="/images/quiet_room_1x.jpg" srcset="/images/quiet_room_1x.jpg 1x, /images/quiet_room_2x.jpg 2x" alt="Looking towards the centre of a circular room with raked seating.">
     <figcaption>
@@ -181,7 +159,7 @@ We have provision for people with hearing, vision and mobility requirements.
   </p>
 </div>
 
-<div class="box box_red box_inclusion">
+<div class="box box_red">
   <h3>Dress code</h3>
 
   <p>
@@ -193,7 +171,7 @@ We have provision for people with hearing, vision and mobility requirements.
   </p>
 </div>
 
-<div class="box box_yellow box_inclusion">
+<div class="box box_yellow">
   <h3>Financial assistance</h3>
 
   <p>

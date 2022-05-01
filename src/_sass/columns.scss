@@ -71,4 +71,29 @@
       color: darken($yellow, 25%);
     }
   }
+
+  figure {
+    float: right;
+    max-width: 250px;
+    margin-left: 1em;
+    margin-bottom: 1em;
+  }
+}
+
+.table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  width: 100%;
+  min-width: 100%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.table thead tr {
+  background-color: $yellow;
+  color: black;
+  text-align: left;
+}
+
+.table th {
+  text-align: left;
 }
