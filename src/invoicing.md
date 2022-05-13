@@ -13,6 +13,8 @@ Poole,
 BH17 7FJ
 ```
 
+Our VAT number is `249244982`.
+
 We want to make sure we pay people as soon as we can.
 Equally we're a volunteer-run organisation.
 Thus we reserve the right to [pay within 30 days of receipt of the invoice, unless an alternative date was agreed](https://www.gov.uk/invoicing-and-taking-payment-from-customers/payment-obligations).
