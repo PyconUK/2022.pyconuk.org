@@ -3,10 +3,10 @@ layout: default
 title: Tickets
 ---
 
-<p>Tickets coming soon!</p>
+<p><a href="https://pretix.eu/pyconuk/PyConUK2022/">Buy your PyConUK 2022 tickets now</a></p>
 
 <div class="box box_yellow">
-  <h3>Please note</h3>A
+  <h3>Please note</h3>
   <p>As part of our return we will be running a single track of talks, additional workshops and are only offering tickets that cover the full conference. We are hoping to return to usual in 2023!</p>
   <p>There are no specific childrens' tickets this year. However, ticket holders may bring up to two under-18s to the conference.</p>
 </div>
@@ -54,4 +54,4 @@ title: Tickets
   VAT number: GB249244982</p>
 </div>
 
-<p>Tickets coming soon!</p>
+<p><a href="https://pretix.eu/pyconuk/PyConUK2022/">Buy your PyConUK 2022 tickets now</a></p>
