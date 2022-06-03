@@ -22,6 +22,7 @@ title: Call for Proposals
 
   <h3>Talks</h3>
   <p><strong>Speak to the wonderful PyCon UK audience!</strong></p>
+  <p>Come and talk about <strong>something you know</strong> in front of our friendly and welcoming audience. You don't need to be a world class expert to have something meaningful to contribute!</p>
 </div>
 
 <div class="box box_red">
