@@ -3,9 +3,11 @@ layout: default
 title: Call for Proposals
 ---
 
-<a href="https://pretalx.com/pycon-uk-2022/cfp" target="_blank">Submit your proposal</a>
+The call for proposals has closed and the schedule will be announced after selections have been made.
 
-<p>We welcome proposals from <strong>everyone</strong>. You don't need to be an expert, or an expert speaker. Below you can find out what kind of proposals we're seeking, but if you're in any doubt whether you should submit a proposal, please see...</p>
+Thank you to everyone who submitted a proposal!
+
+<hr />
 
 <a href="/call-for-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
@@ -40,6 +42,5 @@ title: Call for Proposals
 </div>
 
 <div class="box box_red">
-  <p>The deadline for submissions is <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022 </strong>- but don't leave it until then. Selections will be made during the course of July..</p>
-  <a href="https://pretalx.com/pycon-uk-2022/cfp" target="_blank" class="btn btn-warning btn-lg btn-block">Submit your proposal</a>
+  <p>The deadline for submissions was <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022 </strong>- thank you to everyone who submitted a proposal!</p>
 </div>
