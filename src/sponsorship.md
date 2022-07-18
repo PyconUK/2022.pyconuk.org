@@ -12,6 +12,8 @@ In return, we will ensure that your company is given exposure before, during, an
 If you are interested in sponsoring the conference, please [contact us](/contact/).
 We will publish details of our sponsorship packages soon.
 
+[Practical information for sponsors](/information-for-sponsors/)
+
 <figure>
   <img
     src="/images/sponsors_1x.jpg"
