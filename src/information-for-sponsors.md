@@ -39,7 +39,7 @@ title: Information for sponsors
   </p>
 
   <p>
-    <strong>PyCon UK 2019</strong><br />
+    <strong>PyCon UK 2022</strong><br />
     <strong>&lt;your company's name&gt;</strong><br />
     Cardiff City Hall<br />
     Cathays Park<br />
