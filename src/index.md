@@ -4,7 +4,7 @@ layout: default
 
 ## PyCon UK will be returning to Cardiff City Hall from Friday 16th to Sunday 18th September 2022.
 
-The call for proposals has closed and the schedule will be announced after selections have been made.
+The call for proposals has closed and the <a href="https://pretalx.com/pycon-uk-2022/schedule/">schedule is here.</a>
 <p><a href="/tickets">Join us in September!</a></p>
 
 <div class="box box_red">
