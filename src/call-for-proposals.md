@@ -3,7 +3,7 @@ layout: default
 title: Call for Proposals
 ---
 
-The call for proposals has closed and the schedule will be announced after selections have been made.
+The call for proposals has closed and the <a href="https://pretalx.com/pycon-uk-2022/schedule/">schedule is here.</a>
 
 Thank you to everyone who submitted a proposal!
 
@@ -11,7 +11,7 @@ Thank you to everyone who submitted a proposal!
 
 <a href="/call-for-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
-<p>The call for proposals is open until <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022</strong>. Selections will be made during the course of July.</p>
+<p>The call for proposals closed <strong>17:00 (Europe/London)</strong> on <strong>Saturday, 2nd July, 2022</strong>. Selections were made in July.</p>
 
 <a href="/call-for-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
 
