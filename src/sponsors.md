@@ -19,6 +19,6 @@ title: Sponsors
   <h3>Silver sponsors</h3>
   <a href="https://anvil.works/"><img height="150" width="534" src="/images/sponsors/anvil.png" alt="Logo of Anvil, a sponsor of PyconUK 2022" title="Anvil"></a><br /><!-- break here to avoid making Taipy's logo a bit harder to spot -->
   <a href="https://www.taipy.io/"><img height="150" width="107" src="/images/sponsors/taipy.png" alt="Logo of Taipy, a sponsor of PyconUK 2022" title="Taipy"></a>
-  <a href="http://invenia.ca/"><img height="150" width="150" src="/images/sponsors/invenia.png" alt="Logo of Invenia, a sponsor of PyconUK 2022" title="Invenia"></a>
+  <a href="https://invenia.ca/"><img height="150" width="150" src="/images/sponsors/invenia.png" alt="Logo of Invenia, a sponsor of PyconUK 2022" title="Invenia"></a>
   <a href="https://sourcery.ai/"><img height="150" width="575" src="/images/sponsors/sourcery.png" alt="Logo of Sourcery, a sponsor of PyconUK 2022" title="Sourcery"></a>
 </div>
