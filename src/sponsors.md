@@ -16,7 +16,7 @@ title: Sponsors
   <a href="https://www.microsoft.com"><img height="160" width="669" src="/images/sponsors/microsoft.jpg" alt="Logo of Microsoft, a sponsor of PyconUK 2022" title="Microsoft"></a>
 </div>
 
-<div class="box box_gray">
+<div class="box box_silver">
   <h3>Silver sponsors</h3>
   <a href="https://anvil.works/"><img height="150" width="534" src="/images/sponsors/anvil.png" alt="Logo of Anvil, a sponsor of PyconUK 2022" title="Anvil"></a><br /><!-- break here to avoid making Taipy's logo a bit harder to spot -->
   <a href="https://www.taipy.io/"><img height="150" width="107" src="/images/sponsors/taipy.png" alt="Logo of Taipy, a sponsor of PyconUK 2022" title="Taipy"></a>
@@ -24,7 +24,7 @@ title: Sponsors
   <a href="https://sourcery.ai/"><img height="150" width="575" src="/images/sponsors/sourcery.png" alt="Logo of Sourcery, a sponsor of PyconUK 2022" title="Sourcery"></a>
 </div>
 
-<div class="box box_brown">
+<div class="box box_bronze">
   <h3>Bronze sponsors</h3>
   <a href="https://www.jobs.moneysupermarketgroup.com"><img height="140" width="768" src="/images/sponsors/moneysupermarket.jpg" alt="Logo of Moneysupermarket Group, a sponsor of PyconUK 2022" title="Moneysupermarket Group"></a>
 </div>

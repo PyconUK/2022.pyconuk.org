@@ -72,6 +72,22 @@
     }
   }
 
+  &_bronze {
+    border-color: $bronze;
+
+    h2, h3, h4 {
+      color: darken($bronze, 25%);
+    }
+  }
+
+  &_silver {
+    border-color: $silver;
+
+    h2, h3, h4 {
+      color: darken($silver, 25%);
+    }
+  }
+
   figure {
     float: right;
     max-width: 250px;
