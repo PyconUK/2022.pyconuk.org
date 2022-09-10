@@ -23,3 +23,8 @@ title: Sponsors
   <a href="https://invenia.ca/"><img height="150" width="150" src="/images/sponsors/invenia.png" alt="Logo of Invenia, a sponsor of PyconUK 2022" title="Invenia"></a>
   <a href="https://sourcery.ai/"><img height="150" width="575" src="/images/sponsors/sourcery.png" alt="Logo of Sourcery, a sponsor of PyconUK 2022" title="Sourcery"></a>
 </div>
+
+<div class="box box_brown">
+  <h3>Bronze sponsors</h3>
+  <a href="https://www.jobs.moneysupermarketgroup.com"><img height="140" width="768" src="/images/sponsors/moneysupermarket.jpg" alt="Logo of Moneysupermarket Group, a sponsor of PyconUK 2022" title="Moneysupermarket Group"></a>
+</div>
