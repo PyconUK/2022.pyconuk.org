@@ -13,7 +13,7 @@ title: Sponsors
 <div class="box box_yellow">
   <h3>Gold sponsors</h3>
   <a href="https://www.cookpadteam.com"><img height="160" width="487" src="/images/sponsors/cookpad.png" alt="Logo of Cookpad, a sponsor of PyconUK 2022" title="Cookpad"></a>
-  <a href="https://www.microsoft.com"><img height="160" width="669" src="/images/sponsors/microsoft.jpg" alt="Logo of Microsoft, a sponsor of PyconUK 2022" title="Microsoft"></a>
+  <a href="https://aka.ms/pyconUK"><img height="160" width="669" src="/images/sponsors/microsoft.jpg" alt="Logo of Microsoft, a sponsor of PyconUK 2022" title="Microsoft"></a>
   <a href="https://www.bloomberg.com/company/tech-newsletter/"><img height="160" width="396" src="/images/sponsors/bloomberg.png" alt="Logo of Bloomberg, a sponsor of PyconUK 2022" title="Bloomberg"></a>
 </div>
 
