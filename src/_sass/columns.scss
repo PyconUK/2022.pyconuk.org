@@ -113,3 +113,26 @@
 .table th {
   text-align: left;
 }
+
+.foodcell {
+  border-right: 1px solid;
+}
+
+.foodrow:nth-child(even) {
+  background-color: lightgray;
+}
+
+.vegetarian {
+  color: blue;
+  border-color: black;
+}
+
+.vegan {
+  color: darkgreen;
+  border-color: black;
+}
+
+.dietaryexception {
+  color: red;
+  border-color: black;
+}
