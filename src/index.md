@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="box box_blue">
-  <h3>Pictures</h3>
-<p><a href="https://www.flickr.com/photos/184390836@N04/sets/72177720302131540/with/52361846218/">See pictures from day 1 of the conference!</a></p>
-<p><a href="https://www.flickr.com/photos/184390836@N04/sets/72177720302176293/">See pictures from day 2 of the conference!</a></p>
+  <h3>Media</h3>
+<p><a href="https://www.flickr.com/photos/184390836@N04/sets/72177720302131540/with/52361846218/">Day 1 pictures</a> | <a href="https://www.youtube.com/watch?v=YUoKAl6-w5I&list=PLrkpavSsBQZ7tc0-bTaIPKj4rsPFwWtYn">Day 1 videos</a></p>
+<p><a href="https://www.flickr.com/photos/184390836@N04/sets/72177720302176293/">Day 2 pictures</a> | <a href="https://www.youtube.com/watch?v=mRm9AjnGoBs&list=PLrkpavSsBQZ4ImE1qyyUkHOcRfHD8J5KZ">Day 2 videos</a></p>
 </div>
 
 The <a href="https://pretalx.com/pycon-uk-2022/schedule/">schedule is here.</a>
