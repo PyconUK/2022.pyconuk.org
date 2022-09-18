@@ -2,9 +2,13 @@
 layout: default
 ---
 
+<div class="box box_blue">
+  <h3>Pictures</h3>
 <p><a href="https://www.flickr.com/photos/184390836@N04/sets/72177720302131540/with/52361846218/">See pictures from day 1 of the conference!</a></p>
+<p><a href="https://www.flickr.com/photos/184390836@N04/sets/72177720302176293/">See pictures from day 2 of the conference!</a></p>
+</div>
 
-The call for proposals has closed and the <a href="https://pretalx.com/pycon-uk-2022/schedule/">schedule is here.</a>
+The <a href="https://pretalx.com/pycon-uk-2022/schedule/">schedule is here.</a>
 
 
 <div class="box box_red">
